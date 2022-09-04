@@ -1,0 +1,43 @@
+
+extract the audio stream
+		ffmpeg -i input-video.avi -vn -acodec copy output-audio.aac
+
+extract a portion of audio from a video
+		ffmpeg -i sample.avi -ss 00:03:05 -t 00:00:45.0 -q:a 0 -map a sample.mp3
+		
+audio extraction:-
+		import subprocess
+		import os
+		import sys
+		
+		def convert_video_to_audio_ffmpeg(video_file, output_ext="flac"):
+			#Converts video to audio directly using `ffmpeg` command
+			#with the help of subprocess module
+			filename, ext = os.path.splitext(video_file)
+			subprocess.call(["ffmpeg", "-y", "-i", video_file, f"{filename}.{output_ext}"], 
+							stdout=subprocess.DEVNULL,
+							stderr=subprocess.STDOUT)
+
+		if __name__ == "__main__":
+			vf = "D:\How to speak so that people want to listen _ Julian Treasure.mp4"
+			convert_video_to_audio_ffmpeg(vf)
+
+transcribe:-
+		import speech_recognition as sr				//pip install SpeechRecognition
+		from os import path
+		from pydub import AudioSegment				//pip install pydub
+
+		# convert mp3 file to wav                                                       
+		sound = AudioSegment.from_mp3("transcript.mp3")
+		sound.export("transcript.wav", format="wav")
+
+
+		# transcribe audio file                                                         
+		AUDIO_FILE = "transcript.wav"
+
+		# use the audio file as the audio source                                        
+		r = sr.Recognizer()
+		with sr.AudioFile(AUDIO_FILE) as source:
+				audio = r.record(source)  # read the entire audio file                  
+
+				print("Transcription: " + r.recognize_google(audio))
