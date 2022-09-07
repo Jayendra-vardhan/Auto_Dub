@@ -6,7 +6,8 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"d:\UPES\Project\translation pro
 
 def speech_to_text(config, audio):
     client = speech.SpeechClient()
-    response = client.recognize(config=config, audio=audio)
+    operation = client.long_running_recognize(config=config, audio=audio)
+    response = operation.result(timeout=180) 
     print_sentences(response)
 
 
@@ -38,6 +39,6 @@ config = dict(
     audio_channel_count = 2,
     enable_word_confidence=True,)
 
-audio = dict(uri="gs://flac_file111/how-to-speak-so-that-people-want-to-listen-julian-treasure_RRYwKciD.flac")
+audio = dict(uri="gs://mp3_files112/How to speak so that people want to listen _ Julian Treasure-[AudioTrimmer.com].mp3")
 
 speech_to_text(config, audio)

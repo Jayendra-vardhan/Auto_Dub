@@ -1,0 +1,767 @@
+[
+    {
+        "start_time": "0:00:18.200000",
+        " end_time": "0:00:18.700000",
+        " word": "It's",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:18.700000",
+        " end_time": "0:00:18.700000",
+        " word": "the",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:18.700000",
+        " end_time": "0:00:18.900000",
+        " word": "most",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:18.900000",
+        " end_time": "0:00:19.300000",
+        " word": "powerful",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:19.300000",
+        " end_time": "0:00:19.400000",
+        " word": "sound",
+        " confidence": "0.9379932880401611"
+    },
+    {
+        "start_time": "0:00:19.400000",
+        " end_time": "0:00:19.600000",
+        " word": "in",
+        " confidence": "0.9354185461997986"
+    },
+    {
+        "start_time": "0:00:19.600000",
+        " end_time": "0:00:19.700000",
+        " word": "the",
+        " confidence": "0.955124020576477"
+    },
+    {
+        "start_time": "0:00:19.700000",
+        " end_time": "0:00:19.700000",
+        " word": "world.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:19.700000",
+        " end_time": "0:00:20.100000",
+        " word": "Probably",
+        " confidence": "",
+        "null": [
+            "1.0"
+        ]
+    },
+    {
+        "start_time": "0:00:20.100000",
+        " end_time": "0:00:20.500000",
+        " word": "it's",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:20.500000",
+        " end_time": "0:00:20.600000",
+        " word": "the",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:20.600000",
+        " end_time": "0:00:20.700000",
+        " word": "only",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:20.700000",
+        " end_time": "0:00:20.800000",
+        " word": "one",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:20.800000",
+        " end_time": "0:00:20.900000",
+        " word": "that",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:20.900000",
+        " end_time": "0:00:21.100000",
+        " word": "can",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:21.100000",
+        " end_time": "0:00:21.500000",
+        " word": "start",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:21.500000",
+        " end_time": "0:00:21.500000",
+        " word": "a",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:21.500000",
+        " end_time": "0:00:21.800000",
+        " word": "war",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:21.800000",
+        " end_time": "0:00:22.100000",
+        " word": "or",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:22.100000",
+        " end_time": "0:00:22.400000",
+        " word": "say.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:22.400000",
+        " end_time": "0:00:22.600000",
+        " word": "I",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:22.600000",
+        " end_time": "0:00:22.900000",
+        " word": "love",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:22.900000",
+        " end_time": "0:00:23.100000",
+        " word": "you.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:23.100000",
+        " end_time": "0:00:24",
+        " word": "And",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:24",
+        " end_time": "0:00:24.200000",
+        " word": "yet",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:24.200000",
+        " end_time": "0:00:24.400000",
+        " word": "many",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:24.400000",
+        " end_time": "0:00:24.700000",
+        " word": "people",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:24.700000",
+        " end_time": "0:00:24.800000",
+        " word": "have",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:24.800000",
+        " end_time": "0:00:24.900000",
+        " word": "the",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:24.900000",
+        " end_time": "0:00:25.200000",
+        " word": "experience",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:25.200000",
+        " end_time": "0:00:25.400000",
+        " word": "that",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:25.400000",
+        " end_time": "0:00:25.600000",
+        " word": "when",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:25.600000",
+        " end_time": "0:00:25.800000",
+        " word": "they",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:25.800000",
+        " end_time": "0:00:26",
+        " word": "speak",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:26",
+        " end_time": "0:00:26.600000",
+        " word": "people",
+        " confidence": "",
+        "null": [
+            "0.9876290559768677"
+        ]
+    },
+    {
+        "start_time": "0:00:26.600000",
+        " end_time": "0:00:26.900000",
+        " word": "don't",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:26.900000",
+        " end_time": "0:00:27.100000",
+        " word": "listen",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:27.100000",
+        " end_time": "0:00:27.300000",
+        " word": "to",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:27.300000",
+        " end_time": "0:00:27.500000",
+        " word": "them.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:27.500000",
+        " end_time": "0:00:28.500000",
+        " word": "Why",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:28.500000",
+        " end_time": "0:00:28.700000",
+        " word": "is",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:28.700000",
+        " end_time": "0:00:29",
+        " word": "that?",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:29",
+        " end_time": "0:00:29.500000",
+        " word": "How",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:29.500000",
+        " end_time": "0:00:29.600000",
+        " word": "can",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:29.600000",
+        " end_time": "0:00:29.800000",
+        " word": "we",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:29.800000",
+        " end_time": "0:00:30",
+        " word": "speak",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:30",
+        " end_time": "0:00:30.100000",
+        " word": "to",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:30.100000",
+        " end_time": "0:00:31.500000",
+        " word": "make",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:31.500000",
+        " end_time": "0:00:32",
+        " word": "change",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:32",
+        " end_time": "0:00:32.300000",
+        " word": "in",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:32.300000",
+        " end_time": "0:00:32.500000",
+        " word": "the",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:32.500000",
+        " end_time": "0:00:32.800000",
+        " word": "world?",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:32.800000",
+        " end_time": "0:00:33.600000",
+        " word": "But",
+        " confidence": "0.867219865322113"
+    },
+    {
+        "start_time": "0:00:33.600000",
+        " end_time": "0:00:33.700000",
+        " word": "I",
+        " confidence": "0.9815686345100403"
+    },
+    {
+        "start_time": "0:00:33.700000",
+        " end_time": "0:00:33.800000",
+        " word": "like",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:33.800000",
+        " end_time": "0:00:34",
+        " word": "to",
+        " confidence": "0.9747776389122009"
+    },
+    {
+        "start_time": "0:00:34",
+        " end_time": "0:00:34.200000",
+        " word": "suggest",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:34.200000",
+        " end_time": "0:00:34.600000",
+        " word": "that",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:34.600000",
+        " end_time": "0:00:34.700000",
+        " word": "we",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:34.700000",
+        " end_time": "0:00:36.100000",
+        " word": "need",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:36.100000",
+        " end_time": "0:00:36.200000",
+        " word": "to",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:36.200000",
+        " end_time": "0:00:36.300000",
+        " word": "move",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:36.300000",
+        " end_time": "0:00:36.600000",
+        " word": "away",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:36.600000",
+        " end_time": "0:00:36.800000",
+        " word": "from.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:36.800000",
+        " end_time": "0:00:37.100000",
+        " word": "I've",
+        " confidence": "0.7857084274291992"
+    },
+    {
+        "start_time": "0:00:37.100000",
+        " end_time": "0:00:37.300000",
+        " word": "I've",
+        " confidence": "0.7857084274291992"
+    },
+    {
+        "start_time": "0:00:37.300000",
+        " end_time": "0:00:38",
+        " word": "assembled",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:38",
+        " end_time": "0:00:38.300000",
+        " word": "for",
+        " confidence": "0.8502652645111084"
+    },
+    {
+        "start_time": "0:00:38.300000",
+        " end_time": "0:00:38.500000",
+        " word": "your",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:38.500000",
+        " end_time": "0:00:39",
+        " word": "pleasure",
+        " confidence": "",
+        "null": [
+            "0.9876290559768677"
+        ]
+    },
+    {
+        "start_time": "0:00:39",
+        " end_time": "0:00:39.400000",
+        " word": "his",
+        " confidence": "0.7288493514060974"
+    },
+    {
+        "start_time": "0:00:39.400000",
+        " end_time": "0:00:39.700000",
+        " word": "seven",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:39.700000",
+        " end_time": "0:00:40.100000",
+        " word": "deadly",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:40.100000",
+        " end_time": "0:00:40.500000",
+        " word": "sins",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:40.500000",
+        " end_time": "0:00:40.500000",
+        " word": "of",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:40.500000",
+        " end_time": "0:00:41",
+        " word": "speaking.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:41",
+        " end_time": "0:00:41.600000",
+        " word": "I'm",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:41.600000",
+        " end_time": "0:00:41.700000",
+        " word": "not",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:41.700000",
+        " end_time": "0:00:42",
+        " word": "pretending",
+        " confidence": "",
+        "null": [
+            "0.9876290559768677"
+        ]
+    },
+    {
+        "start_time": "0:00:42",
+        " end_time": "0:00:42.200000",
+        " word": "this",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:42.200000",
+        " end_time": "0:00:42.400000",
+        " word": "is",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:42.400000",
+        " end_time": "0:00:42.500000",
+        " word": "an",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:42.500000",
+        " end_time": "0:00:43.100000",
+        " word": "exhaustive",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:43.100000",
+        " end_time": "0:00:43.100000",
+        " word": "list",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:43.100000",
+        " end_time": "0:00:44",
+        " word": "but",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:44",
+        " end_time": "0:00:44.600000",
+        " word": "these",
+        " confidence": "0.9794338345527649"
+    },
+    {
+        "start_time": "0:00:44.600000",
+        " end_time": "0:00:44.900000",
+        " word": "seven",
+        " confidence": "0.8767464756965637"
+    },
+    {
+        "start_time": "0:00:44.900000",
+        " end_time": "0:00:45",
+        " word": "I",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:45",
+        " end_time": "0:00:45.300000",
+        " word": "think",
+        " confidence": "0.9243088960647583"
+    },
+    {
+        "start_time": "0:00:45.300000",
+        " end_time": "0:00:45.400000",
+        " word": "I'm",
+        " confidence": "0.9607333540916443"
+    },
+    {
+        "start_time": "0:00:45.400000",
+        " end_time": "0:00:45.600000",
+        " word": "pretty",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:45.600000",
+        " end_time": "0:00:46",
+        " word": "large.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:46",
+        " end_time": "0:00:47.200000",
+        " word": "Haven't",
+        " confidence": "0.7241120934486389"
+    },
+    {
+        "start_time": "0:00:47.200000",
+        " end_time": "0:00:47.300000",
+        " word": "said",
+        " confidence": "0.7241117358207703"
+    },
+    {
+        "start_time": "0:00:47.300000",
+        " end_time": "0:00:47.500000",
+        " word": "we",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:47.500000",
+        " end_time": "0:00:47.800000",
+        " word": "can",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:47.800000",
+        " end_time": "0:00:48",
+        " word": "all",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:48",
+        " end_time": "0:00:48.100000",
+        " word": "fit",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:48.100000",
+        " end_time": "0:00:48.400000",
+        " word": "into",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:48.400000",
+        " end_time": "0:00:49.500000",
+        " word": "first.",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:49.500000",
+        " end_time": "0:00:50.700000",
+        " word": "Got",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:50.700000",
+        " end_time": "0:00:50.900000",
+        " word": "it",
+        " confidence": "",
+        "null": [
+            "0.9876290559768677"
+        ]
+    },
+    {
+        "start_time": "0:00:50.900000",
+        " end_time": "0:00:52.800000",
+        " word": "if",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:52.800000",
+        " end_time": "0:00:53",
+        " word": "somebody",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:53",
+        " end_time": "0:00:53.200000",
+        " word": "who's",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:53.200000",
+        " end_time": "0:00:53.400000",
+        " word": "not",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:53.400000",
+        " end_time": "0:00:54.800000",
+        " word": "a",
+        " confidence": "0.38609933853149414"
+    },
+    {
+        "start_time": "0:00:54.800000",
+        " end_time": "0:00:55.100000",
+        " word": "nice",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:55.100000",
+        " end_time": "0:00:55.400000",
+        " word": "habit",
+        " confidence": "0.9255074858665466"
+    },
+    {
+        "start_time": "0:00:55.400000",
+        " end_time": "0:00:55.600000",
+        " word": "and",
+        " confidence": "0.9448609352111816"
+    },
+    {
+        "start_time": "0:00:55.600000",
+        " end_time": "0:00:55.700000",
+        " word": "we",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:55.700000",
+        " end_time": "0:00:55.900000",
+        " word": "know",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:55.900000",
+        " end_time": "0:00:56.300000",
+        " word": "perfectly",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:56.300000",
+        " end_time": "0:00:56.500000",
+        " word": "well",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:56.500000",
+        " end_time": "0:00:56.500000",
+        " word": "the",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:56.500000",
+        " end_time": "0:00:56.900000",
+        " word": "person",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:56.900000",
+        " end_time": "0:00:57",
+        " word": "goes",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:57",
+        " end_time": "0:00:57.100000",
+        " word": "to",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:57.100000",
+        " end_time": "0:00:57.300000",
+        " word": "paying",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:57.300000",
+        " end_time": "0:00:57.900000",
+        " word": "5",
+        " confidence": "0.9830637574195862"
+    },
+    {
+        "start_time": "0:00:57.900000",
+        " end_time": "0:00:58.100000",
+        " word": "minutes",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:58.100000",
+        " end_time": "0:00:58.500000",
+        " word": "later",
+        " confidence": "0.8859721422195435"
+    },
+    {
+        "start_time": "0:00:58.500000",
+        " end_time": "0:00:59",
+        " word": "will",
+        " confidence": "0.8859721422195435"
+    },
+    {
+        "start_time": "0:00:59",
+        " end_time": "0:00:59.100000",
+        " word": "be",
+        " confidence": "0.9876290559768677"
+    },
+    {
+        "start_time": "0:00:59.100000",
+        " end_time": "0:00:59.500000",
+        " word": "gossiping",
+        " confidence": "0.9484284520149231"
+    }
+]
