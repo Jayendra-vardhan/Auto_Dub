@@ -1,3 +1,5 @@
+#csv->json
+
 import csv 
 import json 
 
@@ -22,4 +24,5 @@ def csv_to_json(csvFilePath):
 csvFilePath = r"D:\UPES\Project\Project Auto_Dub\Transcribe\all_words.csv"
 csv_to_json(csvFilePath)
 
-#csv->json
+
+
