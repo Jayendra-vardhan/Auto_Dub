@@ -1,15 +1,15 @@
 results {
   alternatives {
     transcript: "The human voice. It\'s the instrument. We will play."
-    confidence: 0.97041595
+    confidence: 0.898275793
     words {
       start_time {
         seconds: 13
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
         seconds: 14
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "The"
       confidence: 0.987629056
@@ -17,11 +17,11 @@ results {
     words {
       start_time {
         seconds: 14
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 14
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "human"
       confidence: 0.987629056
@@ -29,104 +29,104 @@ results {
     words {
       start_time {
         seconds: 14
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 14
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "voice."
-      confidence: 0.987629056
+      confidence: 0.941289842
     }
     words {
       start_time {
         seconds: 14
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 16
+        nanos: 300000000
       }
       word: "It\'s"
-      confidence: 0.982520401
+      confidence: 0.793971539
     }
     words {
       start_time {
         seconds: 16
+        nanos: 300000000
       }
       end_time {
         seconds: 16
-        nanos: 100000000
+        nanos: 400000000
       }
       word: "the"
-      confidence: 0.957799256
+      confidence: 0.784407616
     }
     words {
       start_time {
         seconds: 16
-        nanos: 100000000
+        nanos: 400000000
       }
       end_time {
         seconds: 16
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "instrument."
-      confidence: 0.984357715
+      confidence: 0.969287574
     }
     words {
       start_time {
         seconds: 16
-        nanos: 400000000
-      }
-      end_time {
-        seconds: 16
-        nanos: 700000000
-      }
-      word: "We"
-      confidence: 0.937325656
-    }
-    words {
-      start_time {
-        seconds: 16
-        nanos: 700000000
-      }
-      end_time {
-        seconds: 16
-        nanos: 900000000
-      }
-      word: "will"
-      confidence: 0.921224535
-    }
-    words {
-      start_time {
-        seconds: 16
-        nanos: 900000000
+        nanos: 600000000
       }
       end_time {
         seconds: 17
-        nanos: 200000000
+      }
+      word: "We"
+      confidence: 0.783641219
+    }
+    words {
+      start_time {
+        seconds: 17
+      }
+      end_time {
+        seconds: 17
+        nanos: 100000000
+      }
+      word: "will"
+      confidence: 0.849578083
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 400000000
       }
       word: "play."
-      confidence: 0.987629056
+      confidence: 0.98704809
     }
   }
   result_end_time {
-    seconds: 17
-    nanos: 810000000
+    seconds: 18
+    nanos: 30000000
   }
   language_code: "en-us"
 }
 results {
   alternatives {
-    transcript: " It\'s the most powerful sound in the world. Probably, it\'s the only one that can start a war or say. I love you. And yet many people have the experience that when they speak people, don\'t listen to them. Why is that? How can we speak to make change in the world? But I like to suggest that we need to move away from. I\'ve I\'ve assembled for your pleasure, his seven deadly sins of speaking. I\'m not pretending, this is an exhaustive list but these seven I think I\'m pretty large. Haven\'t said we can all fit into first. Got it, if somebody who\'s not a nice habit and we know perfectly well the person goes to paying 5 minutes later will be gossiping"
-    confidence: 0.965621471
+    transcript: " It\'s the most powerful sound in the world. Probably, it\'s the only one that can start a war or say I love you. And yet many people have the experience that when they speak people, don\'t listen to them. Why is that? How can we speak to make change in the world? But I like to suggest that we need to move away from. I\'ve assembled for your pleasure, his seven deadly sins of speaking. I\'m not pretending this is an exhaustive list but these seven I think I\'m pretty large. Haven\'t said we can all fit into first. Got it, if somebody who\'s not present, not a nice habit and we know perfectly well the person goes to paying 5 minutes later will be gossiping about us."
+    confidence: 0.972175
     words {
       start_time {
         seconds: 18
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 18
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "It\'s"
       confidence: 0.987629056
@@ -134,25 +134,13 @@ results {
     words {
       start_time {
         seconds: 18
-        nanos: 700000000
-      }
-      end_time {
-        seconds: 18
-        nanos: 700000000
-      }
-      word: "the"
-      confidence: 0.987629056
-    }
-    words {
-      start_time {
-        seconds: 18
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
         seconds: 18
         nanos: 900000000
       }
-      word: "most"
+      word: "the"
       confidence: 0.987629056
     }
     words {
@@ -162,7 +150,19 @@ results {
       }
       end_time {
         seconds: 19
-        nanos: 300000000
+        nanos: 100000000
+      }
+      word: "most"
+      confidence: 0.987629056
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 500000000
       }
       word: "powerful"
       confidence: 0.987629056
@@ -170,71 +170,69 @@ results {
     words {
       start_time {
         seconds: 19
-        nanos: 300000000
+        nanos: 500000000
       }
       end_time {
         seconds: 19
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "sound"
-      confidence: 0.937983871
+      confidence: 0.951931238
     }
     words {
       start_time {
         seconds: 19
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 19
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "in"
-      confidence: 0.935448527
+      confidence: 0.93805939
     }
     words {
       start_time {
         seconds: 19
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
         seconds: 19
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "the"
-      confidence: 0.955127835
+      confidence: 0.938709
     }
     words {
       start_time {
         seconds: 19
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
-        seconds: 19
-        nanos: 700000000
+        seconds: 20
       }
       word: "world."
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 19
-        nanos: 700000000
+        seconds: 20
       }
       end_time {
         seconds: 20
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "Probably,"
-      confidence: 1
+      confidence: 0.981952488
     }
     words {
       start_time {
         seconds: 20
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 20
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "it\'s"
       confidence: 0.987629056
@@ -242,11 +240,11 @@ results {
     words {
       start_time {
         seconds: 20
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 20
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "the"
       confidence: 0.987629056
@@ -254,11 +252,11 @@ results {
     words {
       start_time {
         seconds: 20
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
         seconds: 20
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "only"
       confidence: 0.987629056
@@ -266,35 +264,33 @@ results {
     words {
       start_time {
         seconds: 20
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
-        seconds: 20
-        nanos: 800000000
+        seconds: 21
       }
       word: "one"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 20
-        nanos: 800000000
+        seconds: 21
       }
       end_time {
-        seconds: 20
-        nanos: 900000000
+        seconds: 21
+        nanos: 100000000
       }
       word: "that"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 20
-        nanos: 900000000
+        seconds: 21
+        nanos: 100000000
       }
       end_time {
         seconds: 21
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "can"
       confidence: 0.987629056
@@ -302,11 +298,11 @@ results {
     words {
       start_time {
         seconds: 21
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 21
-        nanos: 500000000
+        nanos: 600000000
       }
       word: "start"
       confidence: 0.987629056
@@ -314,11 +310,11 @@ results {
     words {
       start_time {
         seconds: 21
-        nanos: 500000000
+        nanos: 600000000
       }
       end_time {
         seconds: 21
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "a"
       confidence: 0.987629056
@@ -326,23 +322,21 @@ results {
     words {
       start_time {
         seconds: 21
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
-        seconds: 21
-        nanos: 800000000
+        seconds: 22
       }
       word: "war"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 21
-        nanos: 800000000
+        seconds: 22
       }
       end_time {
         seconds: 22
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "or"
       confidence: 0.987629056
@@ -350,23 +344,23 @@ results {
     words {
       start_time {
         seconds: 22
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 22
-        nanos: 400000000
+        nanos: 600000000
       }
-      word: "say."
+      word: "say"
       confidence: 0.987629056
     }
     words {
       start_time {
         seconds: 22
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 22
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "I"
       confidence: 0.987629056
@@ -374,23 +368,23 @@ results {
     words {
       start_time {
         seconds: 22
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
-        seconds: 22
-        nanos: 900000000
+        seconds: 23
+        nanos: 100000000
       }
       word: "love"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 22
-        nanos: 900000000
+        seconds: 23
+        nanos: 100000000
       }
       end_time {
         seconds: 23
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "you."
       confidence: 0.987629056
@@ -398,10 +392,11 @@ results {
     words {
       start_time {
         seconds: 23
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 24
+        nanos: 200000000
       }
       word: "And"
       confidence: 0.987629056
@@ -409,10 +404,11 @@ results {
     words {
       start_time {
         seconds: 24
+        nanos: 200000000
       }
       end_time {
         seconds: 24
-        nanos: 200000000
+        nanos: 400000000
       }
       word: "yet"
       confidence: 0.987629056
@@ -420,11 +416,11 @@ results {
     words {
       start_time {
         seconds: 24
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 24
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "many"
       confidence: 0.987629056
@@ -432,11 +428,11 @@ results {
     words {
       start_time {
         seconds: 24
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 24
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "people"
       confidence: 0.987629056
@@ -444,35 +440,33 @@ results {
     words {
       start_time {
         seconds: 24
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
-        seconds: 24
-        nanos: 800000000
+        seconds: 25
       }
       word: "have"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 24
-        nanos: 800000000
+        seconds: 25
       }
       end_time {
-        seconds: 24
-        nanos: 900000000
+        seconds: 25
+        nanos: 100000000
       }
       word: "the"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 24
-        nanos: 900000000
+        seconds: 25
+        nanos: 100000000
       }
       end_time {
         seconds: 25
-        nanos: 200000000
+        nanos: 400000000
       }
       word: "experience"
       confidence: 0.987629056
@@ -480,11 +474,11 @@ results {
     words {
       start_time {
         seconds: 25
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 25
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "that"
       confidence: 0.987629056
@@ -492,11 +486,11 @@ results {
     words {
       start_time {
         seconds: 25
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 25
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "when"
       confidence: 0.987629056
@@ -504,22 +498,21 @@ results {
     words {
       start_time {
         seconds: 25
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
-        seconds: 25
-        nanos: 800000000
+        seconds: 26
       }
       word: "they"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 25
-        nanos: 800000000
+        seconds: 26
       }
       end_time {
         seconds: 26
+        nanos: 200000000
       }
       word: "speak"
       confidence: 0.987629056
@@ -527,10 +520,11 @@ results {
     words {
       start_time {
         seconds: 26
+        nanos: 200000000
       }
       end_time {
         seconds: 26
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "people,"
       confidence: 0.987629056
@@ -538,23 +532,23 @@ results {
     words {
       start_time {
         seconds: 26
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
-        seconds: 26
-        nanos: 900000000
+        seconds: 27
+        nanos: 100000000
       }
       word: "don\'t"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 26
-        nanos: 900000000
+        seconds: 27
+        nanos: 100000000
       }
       end_time {
         seconds: 27
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "listen"
       confidence: 0.987629056
@@ -562,11 +556,11 @@ results {
     words {
       start_time {
         seconds: 27
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 27
-        nanos: 300000000
+        nanos: 500000000
       }
       word: "to"
       confidence: 0.987629056
@@ -574,11 +568,11 @@ results {
     words {
       start_time {
         seconds: 27
-        nanos: 300000000
+        nanos: 500000000
       }
       end_time {
         seconds: 27
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "them."
       confidence: 0.987629056
@@ -586,11 +580,11 @@ results {
     words {
       start_time {
         seconds: 27
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 28
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "Why"
       confidence: 0.987629056
@@ -598,11 +592,11 @@ results {
     words {
       start_time {
         seconds: 28
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 28
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "is"
       confidence: 0.987629056
@@ -610,10 +604,11 @@ results {
     words {
       start_time {
         seconds: 28
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
         seconds: 29
+        nanos: 200000000
       }
       word: "that?"
       confidence: 0.987629056
@@ -621,10 +616,11 @@ results {
     words {
       start_time {
         seconds: 29
+        nanos: 200000000
       }
       end_time {
         seconds: 29
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "How"
       confidence: 0.987629056
@@ -632,25 +628,13 @@ results {
     words {
       start_time {
         seconds: 29
-        nanos: 500000000
-      }
-      end_time {
-        seconds: 29
-        nanos: 600000000
-      }
-      word: "can"
-      confidence: 0.987629056
-    }
-    words {
-      start_time {
-        seconds: 29
-        nanos: 600000000
+        nanos: 700000000
       }
       end_time {
         seconds: 29
         nanos: 800000000
       }
-      word: "we"
+      word: "can"
       confidence: 0.987629056
     }
     words {
@@ -660,6 +644,17 @@ results {
       }
       end_time {
         seconds: 30
+      }
+      word: "we"
+      confidence: 0.987629056
+    }
+    words {
+      start_time {
+        seconds: 30
+      }
+      end_time {
+        seconds: 30
+        nanos: 200000000
       }
       word: "speak"
       confidence: 0.987629056
@@ -667,10 +662,11 @@ results {
     words {
       start_time {
         seconds: 30
+        nanos: 200000000
       }
       end_time {
         seconds: 30
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "to"
       confidence: 0.987629056
@@ -678,11 +674,11 @@ results {
     words {
       start_time {
         seconds: 30
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 31
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "make"
       confidence: 0.987629056
@@ -690,10 +686,11 @@ results {
     words {
       start_time {
         seconds: 31
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 32
+        nanos: 200000000
       }
       word: "change"
       confidence: 0.987629056
@@ -701,10 +698,11 @@ results {
     words {
       start_time {
         seconds: 32
+        nanos: 200000000
       }
       end_time {
         seconds: 32
-        nanos: 300000000
+        nanos: 500000000
       }
       word: "in"
       confidence: 0.987629056
@@ -712,11 +710,11 @@ results {
     words {
       start_time {
         seconds: 32
-        nanos: 300000000
+        nanos: 500000000
       }
       end_time {
         seconds: 32
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "the"
       confidence: 0.987629056
@@ -724,61 +722,47 @@ results {
     words {
       start_time {
         seconds: 32
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
-        seconds: 32
-        nanos: 800000000
+        seconds: 33
       }
       word: "world?"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 32
-        nanos: 800000000
+        seconds: 33
       }
       end_time {
         seconds: 33
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "But"
-      confidence: 0.867219865
+      confidence: 0.906794369
     }
     words {
       start_time {
         seconds: 33
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
         seconds: 33
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "I"
-      confidence: 0.981568635
+      confidence: 0.973450184
     }
     words {
       start_time {
         seconds: 33
-        nanos: 700000000
-      }
-      end_time {
-        seconds: 33
-        nanos: 800000000
-      }
-      word: "like"
-      confidence: 0.987629056
-    }
-    words {
-      start_time {
-        seconds: 33
-        nanos: 800000000
+        nanos: 900000000
       }
       end_time {
         seconds: 34
       }
-      word: "to"
-      confidence: 0.974777639
+      word: "like"
+      confidence: 0.987629056
     }
     words {
       start_time {
@@ -787,6 +771,18 @@ results {
       end_time {
         seconds: 34
         nanos: 200000000
+      }
+      word: "to"
+      confidence: 0.984853327
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 400000000
       }
       word: "suggest"
       confidence: 0.987629056
@@ -794,11 +790,11 @@ results {
     words {
       start_time {
         seconds: 34
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 34
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "that"
       confidence: 0.987629056
@@ -806,11 +802,11 @@ results {
     words {
       start_time {
         seconds: 34
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
         seconds: 34
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "we"
       confidence: 0.987629056
@@ -818,11 +814,11 @@ results {
     words {
       start_time {
         seconds: 34
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
         seconds: 36
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "need"
       confidence: 0.987629056
@@ -830,11 +826,11 @@ results {
     words {
       start_time {
         seconds: 36
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 36
-        nanos: 200000000
+        nanos: 400000000
       }
       word: "to"
       confidence: 0.987629056
@@ -842,11 +838,11 @@ results {
     words {
       start_time {
         seconds: 36
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 36
-        nanos: 300000000
+        nanos: 500000000
       }
       word: "move"
       confidence: 0.987629056
@@ -854,11 +850,11 @@ results {
     words {
       start_time {
         seconds: 36
-        nanos: 300000000
+        nanos: 500000000
       }
       end_time {
         seconds: 36
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "away"
       confidence: 0.987629056
@@ -866,38 +862,24 @@ results {
     words {
       start_time {
         seconds: 36
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
-        seconds: 36
-        nanos: 800000000
+        seconds: 37
       }
       word: "from."
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 36
-        nanos: 800000000
-      }
-      end_time {
         seconds: 37
-        nanos: 100000000
-      }
-      word: "I\'ve"
-      confidence: 0.785708249
-    }
-    words {
-      start_time {
-        seconds: 37
-        nanos: 100000000
       }
       end_time {
         seconds: 37
         nanos: 300000000
       }
       word: "I\'ve"
-      confidence: 0.785708249
+      confidence: 0.841062605
     }
     words {
       start_time {
@@ -906,6 +888,7 @@ results {
       }
       end_time {
         seconds: 38
+        nanos: 200000000
       }
       word: "assembled"
       confidence: 0.987629056
@@ -913,22 +896,23 @@ results {
     words {
       start_time {
         seconds: 38
-      }
-      end_time {
-        seconds: 38
-        nanos: 300000000
-      }
-      word: "for"
-      confidence: 0.850265145
-    }
-    words {
-      start_time {
-        seconds: 38
-        nanos: 300000000
+        nanos: 200000000
       }
       end_time {
         seconds: 38
         nanos: 500000000
+      }
+      word: "for"
+      confidence: 0.885293245
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 700000000
       }
       word: "your"
       confidence: 0.987629056
@@ -936,10 +920,11 @@ results {
     words {
       start_time {
         seconds: 38
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 39
+        nanos: 200000000
       }
       word: "pleasure,"
       confidence: 0.987629056
@@ -947,22 +932,23 @@ results {
     words {
       start_time {
         seconds: 39
+        nanos: 200000000
       }
       end_time {
         seconds: 39
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "his"
-      confidence: 0.728849471
+      confidence: 0.78674
     }
     words {
       start_time {
         seconds: 39
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 39
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "seven"
       confidence: 0.987629056
@@ -970,11 +956,11 @@ results {
     words {
       start_time {
         seconds: 39
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
         seconds: 40
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "deadly"
       confidence: 0.987629056
@@ -982,11 +968,11 @@ results {
     words {
       start_time {
         seconds: 40
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 40
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "sins"
       confidence: 0.987629056
@@ -994,11 +980,11 @@ results {
     words {
       start_time {
         seconds: 40
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 40
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "of"
       confidence: 0.987629056
@@ -1006,10 +992,11 @@ results {
     words {
       start_time {
         seconds: 40
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 41
+        nanos: 200000000
       }
       word: "speaking."
       confidence: 0.987629056
@@ -1017,10 +1004,11 @@ results {
     words {
       start_time {
         seconds: 41
+        nanos: 200000000
       }
       end_time {
         seconds: 41
-        nanos: 600000000
+        nanos: 700000000
       }
       word: "I\'m"
       confidence: 0.987629056
@@ -1028,11 +1016,11 @@ results {
     words {
       start_time {
         seconds: 41
-        nanos: 600000000
+        nanos: 700000000
       }
       end_time {
         seconds: 41
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "not"
       confidence: 0.987629056
@@ -1040,21 +1028,23 @@ results {
     words {
       start_time {
         seconds: 41
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
         seconds: 42
+        nanos: 200000000
       }
-      word: "pretending,"
+      word: "pretending"
       confidence: 0.987629056
     }
     words {
       start_time {
         seconds: 42
+        nanos: 200000000
       }
       end_time {
         seconds: 42
-        nanos: 200000000
+        nanos: 400000000
       }
       word: "this"
       confidence: 0.987629056
@@ -1062,11 +1052,11 @@ results {
     words {
       start_time {
         seconds: 42
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 42
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "is"
       confidence: 0.987629056
@@ -1074,11 +1064,11 @@ results {
     words {
       start_time {
         seconds: 42
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 42
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "an"
       confidence: 0.987629056
@@ -1086,11 +1076,11 @@ results {
     words {
       start_time {
         seconds: 42
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 43
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "exhaustive"
       confidence: 0.987629056
@@ -1098,11 +1088,11 @@ results {
     words {
       start_time {
         seconds: 43
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 43
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "list"
       confidence: 0.987629056
@@ -1110,10 +1100,11 @@ results {
     words {
       start_time {
         seconds: 43
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 44
+        nanos: 200000000
       }
       word: "but"
       confidence: 0.987629056
@@ -1121,33 +1112,35 @@ results {
     words {
       start_time {
         seconds: 44
+        nanos: 200000000
       }
       end_time {
         seconds: 44
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "these"
-      confidence: 0.979429126
+      confidence: 0.928593874
     }
     words {
       start_time {
         seconds: 44
-        nanos: 600000000
-      }
-      end_time {
-        seconds: 44
-        nanos: 900000000
-      }
-      word: "seven"
-      confidence: 0.876746476
-    }
-    words {
-      start_time {
-        seconds: 44
-        nanos: 900000000
+        nanos: 800000000
       }
       end_time {
         seconds: 45
+        nanos: 100000000
+      }
+      word: "seven"
+      confidence: 0.948696077
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 200000000
       }
       word: "I"
       confidence: 0.987629056
@@ -1155,34 +1148,35 @@ results {
     words {
       start_time {
         seconds: 45
+        nanos: 200000000
       }
       end_time {
         seconds: 45
-        nanos: 300000000
+        nanos: 500000000
       }
       word: "think"
-      confidence: 0.924308896
+      confidence: 0.979596913
     }
     words {
       start_time {
         seconds: 45
-        nanos: 300000000
-      }
-      end_time {
-        seconds: 45
-        nanos: 400000000
-      }
-      word: "I\'m"
-      confidence: 0.960733354
-    }
-    words {
-      start_time {
-        seconds: 45
-        nanos: 400000000
+        nanos: 500000000
       }
       end_time {
         seconds: 45
         nanos: 600000000
+      }
+      word: "I\'m"
+      confidence: 0.979607105
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 800000000
       }
       word: "pretty"
       confidence: 0.987629056
@@ -1190,10 +1184,11 @@ results {
     words {
       start_time {
         seconds: 45
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
         seconds: 46
+        nanos: 200000000
       }
       word: "large."
       confidence: 0.987629056
@@ -1201,34 +1196,35 @@ results {
     words {
       start_time {
         seconds: 46
+        nanos: 200000000
       }
       end_time {
         seconds: 47
-        nanos: 200000000
+        nanos: 400000000
       }
       word: "Haven\'t"
-      confidence: 0.724111199
+      confidence: 0.651293695
     }
     words {
       start_time {
         seconds: 47
-        nanos: 200000000
-      }
-      end_time {
-        seconds: 47
-        nanos: 300000000
-      }
-      word: "said"
-      confidence: 0.72411108
-    }
-    words {
-      start_time {
-        seconds: 47
-        nanos: 300000000
+        nanos: 400000000
       }
       end_time {
         seconds: 47
         nanos: 500000000
+      }
+      word: "said"
+      confidence: 0.651293516
+    }
+    words {
+      start_time {
+        seconds: 47
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 47
+        nanos: 700000000
       }
       word: "we"
       confidence: 0.987629056
@@ -1236,22 +1232,21 @@ results {
     words {
       start_time {
         seconds: 47
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
-        seconds: 47
-        nanos: 800000000
+        seconds: 48
       }
       word: "can"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 47
-        nanos: 800000000
+        seconds: 48
       }
       end_time {
         seconds: 48
+        nanos: 200000000
       }
       word: "all"
       confidence: 0.987629056
@@ -1259,10 +1254,11 @@ results {
     words {
       start_time {
         seconds: 48
+        nanos: 200000000
       }
       end_time {
         seconds: 48
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "fit"
       confidence: 0.987629056
@@ -1270,11 +1266,11 @@ results {
     words {
       start_time {
         seconds: 48
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 48
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "into"
       confidence: 0.987629056
@@ -1282,11 +1278,11 @@ results {
     words {
       start_time {
         seconds: 48
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 49
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "first."
       confidence: 0.987629056
@@ -1294,46 +1290,45 @@ results {
     words {
       start_time {
         seconds: 49
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 50
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "Got"
-      confidence: 0.987629056
+      confidence: 0.977410138
     }
     words {
       start_time {
         seconds: 50
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
-        seconds: 50
-        nanos: 900000000
+        seconds: 51
+        nanos: 100000000
       }
       word: "it,"
-      confidence: 0.987629056
+      confidence: 0.977378964
     }
     words {
       start_time {
-        seconds: 50
-        nanos: 900000000
-      }
-      end_time {
-        seconds: 52
-        nanos: 800000000
-      }
-      word: "if"
-      confidence: 0.987629056
-    }
-    words {
-      start_time {
-        seconds: 52
-        nanos: 800000000
+        seconds: 51
+        nanos: 100000000
       }
       end_time {
         seconds: 53
+      }
+      word: "if"
+      confidence: 0.977417946
+    }
+    words {
+      start_time {
+        seconds: 53
+      }
+      end_time {
+        seconds: 53
+        nanos: 200000000
       }
       word: "somebody"
       confidence: 0.987629056
@@ -1341,10 +1336,11 @@ results {
     words {
       start_time {
         seconds: 53
+        nanos: 200000000
       }
       end_time {
         seconds: 53
-        nanos: 200000000
+        nanos: 400000000
       }
       word: "who\'s"
       confidence: 0.987629056
@@ -1352,11 +1348,11 @@ results {
     words {
       start_time {
         seconds: 53
-        nanos: 200000000
+        nanos: 400000000
       }
       end_time {
         seconds: 53
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "not"
       confidence: 0.987629056
@@ -1364,23 +1360,41 @@ results {
     words {
       start_time {
         seconds: 53
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 54
-        nanos: 800000000
       }
-      word: "a"
-      confidence: 0.386099279
+      word: "present,"
+      confidence: 0.966272831
     }
     words {
       start_time {
         seconds: 54
-        nanos: 800000000
       }
       end_time {
         seconds: 55
-        nanos: 100000000
+      }
+      word: "not"
+      confidence: 0.94887358
+    }
+    words {
+      start_time {
+        seconds: 55
+      }
+      end_time {
+        seconds: 55
+      }
+      word: "a"
+      confidence: 1
+    }
+    words {
+      start_time {
+        seconds: 55
+      }
+      end_time {
+        seconds: 55
+        nanos: 300000000
       }
       word: "nice"
       confidence: 0.987629056
@@ -1388,35 +1402,35 @@ results {
     words {
       start_time {
         seconds: 55
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 55
-        nanos: 400000000
+        nanos: 600000000
       }
       word: "habit"
-      confidence: 0.925507486
+      confidence: 0.972814679
     }
     words {
       start_time {
         seconds: 55
-        nanos: 400000000
+        nanos: 600000000
       }
       end_time {
         seconds: 55
-        nanos: 600000000
+        nanos: 800000000
       }
       word: "and"
-      confidence: 0.944860935
+      confidence: 0.892192304
     }
     words {
       start_time {
         seconds: 55
-        nanos: 600000000
+        nanos: 800000000
       }
       end_time {
         seconds: 55
-        nanos: 700000000
+        nanos: 900000000
       }
       word: "we"
       confidence: 0.987629056
@@ -1424,23 +1438,23 @@ results {
     words {
       start_time {
         seconds: 55
-        nanos: 700000000
+        nanos: 900000000
       }
       end_time {
-        seconds: 55
-        nanos: 900000000
+        seconds: 56
+        nanos: 100000000
       }
       word: "know"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 55
-        nanos: 900000000
+        seconds: 56
+        nanos: 100000000
       }
       end_time {
         seconds: 56
-        nanos: 300000000
+        nanos: 500000000
       }
       word: "perfectly"
       confidence: 0.987629056
@@ -1448,11 +1462,11 @@ results {
     words {
       start_time {
         seconds: 56
-        nanos: 300000000
+        nanos: 500000000
       }
       end_time {
         seconds: 56
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "well"
       confidence: 0.987629056
@@ -1460,11 +1474,11 @@ results {
     words {
       start_time {
         seconds: 56
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 56
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "the"
       confidence: 0.987629056
@@ -1472,22 +1486,23 @@ results {
     words {
       start_time {
         seconds: 56
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
-        seconds: 56
-        nanos: 900000000
+        seconds: 57
+        nanos: 100000000
       }
       word: "person"
       confidence: 0.987629056
     }
     words {
       start_time {
-        seconds: 56
-        nanos: 900000000
+        seconds: 57
+        nanos: 100000000
       }
       end_time {
         seconds: 57
+        nanos: 200000000
       }
       word: "goes"
       confidence: 0.987629056
@@ -1495,10 +1510,11 @@ results {
     words {
       start_time {
         seconds: 57
+        nanos: 200000000
       }
       end_time {
         seconds: 57
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "to"
       confidence: 0.987629056
@@ -1506,11 +1522,11 @@ results {
     words {
       start_time {
         seconds: 57
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 57
-        nanos: 300000000
+        nanos: 500000000
       }
       word: "paying"
       confidence: 0.987629056
@@ -1518,23 +1534,23 @@ results {
     words {
       start_time {
         seconds: 57
-        nanos: 300000000
-      }
-      end_time {
-        seconds: 57
-        nanos: 900000000
-      }
-      word: "5"
-      confidence: 0.98304528
-    }
-    words {
-      start_time {
-        seconds: 57
-        nanos: 900000000
+        nanos: 500000000
       }
       end_time {
         seconds: 58
         nanos: 100000000
+      }
+      word: "5"
+      confidence: 0.987629056
+    }
+    words {
+      start_time {
+        seconds: 58
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 58
+        nanos: 300000000
       }
       word: "minutes"
       confidence: 0.987629056
@@ -1542,33 +1558,35 @@ results {
     words {
       start_time {
         seconds: 58
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 58
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "later"
-      confidence: 0.885971963
+      confidence: 0.86016047
     }
     words {
       start_time {
         seconds: 58
-        nanos: 500000000
+        nanos: 700000000
       }
       end_time {
         seconds: 59
+        nanos: 200000000
       }
       word: "will"
-      confidence: 0.885972
+      confidence: 0.860161185
     }
     words {
       start_time {
         seconds: 59
+        nanos: 200000000
       }
       end_time {
         seconds: 59
-        nanos: 100000000
+        nanos: 300000000
       }
       word: "be"
       confidence: 0.987629056
@@ -1576,22 +1594,69 @@ results {
     words {
       start_time {
         seconds: 59
-        nanos: 100000000
+        nanos: 300000000
       }
       end_time {
         seconds: 59
-        nanos: 500000000
+        nanos: 700000000
       }
       word: "gossiping"
-      confidence: 0.948427916
+      confidence: 0.927105904
+    }
+    words {
+      start_time {
+        seconds: 59
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 59
+        nanos: 800000000
+      }
+      word: "about"
+      confidence: 0.987629056
+    }
+    words {
+      start_time {
+        seconds: 59
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 60
+        nanos: 400000000
+      }
+      word: "us."
+      confidence: 0.987629056
     }
   }
   result_end_time {
-    seconds: 59
-    nanos: 960000000
+    seconds: 61
+    nanos: 150000000
+  }
+  language_code: "en-us"
+}
+results {
+  alternatives {
+    transcript: " Second."
+    confidence: 0.784795225
+    words {
+      start_time {
+        seconds: 61
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 62
+        nanos: 300000000
+      }
+      word: "Second."
+      confidence: 0.784795225
+    }
+  }
+  result_end_time {
+    seconds: 62
+    nanos: 730000000
   }
   language_code: "en-us"
 }
 total_billed_time {
-  seconds: 60
+  seconds: 75
 }
