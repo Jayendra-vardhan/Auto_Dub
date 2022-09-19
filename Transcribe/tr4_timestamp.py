@@ -4,6 +4,7 @@ import os
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"d:\UPES\Project\translation project\Local_to_GCP\upheld-beach-360516-95be0c166639.json"
 
 
+
 def speech_to_text(config, audio):
     client = speech.SpeechClient()
     operation = client.long_running_recognize(config=config, audio=audio)

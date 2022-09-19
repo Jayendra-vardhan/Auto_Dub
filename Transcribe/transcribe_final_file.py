@@ -57,4 +57,5 @@ def transcribe_file():
     text_file.write(x)
     text_file.close()
     
+    
 transcribe_file()

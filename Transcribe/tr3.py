@@ -6,6 +6,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"d:\UPES\Project\translation pro
 
 def transcribe_gcs(gcs_uri):
        
+       
     client = speech.SpeechClient()
 
     audio = speech.RecognitionAudio(uri=gcs_uri)
@@ -23,6 +24,7 @@ def transcribe_gcs(gcs_uri):
 
     # Each result is for a consecutive portion of the audio. Iterate through
     # them to get the transcripts for the entire audio file.
+    
     for result in response.results:
         # The first alternative is the most likely one for this portion.
         print(u"Transcript: {}".format(result.alternatives[0].transcript))
