@@ -1,7 +1,7 @@
 results {
   alternatives {
     transcript: "The human voice. It\'s the instrument. We will play."
-    confidence: 0.898280799
+    confidence: 0.898284912
     words {
       start_time {
         seconds: 13
@@ -36,7 +36,7 @@ results {
         nanos: 700000000
       }
       word: "voice."
-      confidence: 0.94136554
+      confidence: 0.941441178
     }
     words {
       start_time {
@@ -60,7 +60,7 @@ results {
         nanos: 400000000
       }
       word: "the"
-      confidence: 0.784407556
+      confidence: 0.784407616
     }
     words {
       start_time {
@@ -72,7 +72,7 @@ results {
         nanos: 600000000
       }
       word: "instrument."
-      confidence: 0.969256043
+      confidence: 0.969224453
     }
     words {
       start_time {
@@ -83,7 +83,7 @@ results {
         seconds: 17
       }
       word: "We"
-      confidence: 0.783641219
+      confidence: 0.78364116
     }
     words {
       start_time {
@@ -94,7 +94,7 @@ results {
         nanos: 100000000
       }
       word: "will"
-      confidence: 0.849578083
+      confidence: 0.849577904
     }
     words {
       start_time {
@@ -106,7 +106,7 @@ results {
         nanos: 400000000
       }
       word: "play."
-      confidence: 0.98704809
+      confidence: 0.987041
     }
   }
   result_end_time {
@@ -118,7 +118,7 @@ results {
 results {
   alternatives {
     transcript: " It\'s the most powerful sound in the world. Probably, it\'s the only one that can start a war or say I love you. And yet many people have the experience that when they speak people, don\'t listen to them. Why is that? How can we speak to make change in the world? But I like to suggest that we need to move away from. I\'ve assembled for your pleasure, his seven deadly sins of speaking. I\'m not pretending this is an exhaustive list but these seven I think I\'m pretty large. Haven\'t said we can all fit into first. Got it, if somebody who\'s not present, not a nice habit and we know perfectly well the person goes to paying 5 minutes later will be gossiping about us."
-    confidence: 0.9721753
+    confidence: 0.972175
     words {
       start_time {
         seconds: 18
@@ -177,7 +177,7 @@ results {
         nanos: 600000000
       }
       word: "sound"
-      confidence: 0.951931715
+      confidence: 0.951931238
     }
     words {
       start_time {
@@ -189,7 +189,7 @@ results {
         nanos: 800000000
       }
       word: "in"
-      confidence: 0.938078225
+      confidence: 0.93805939
     }
     words {
       start_time {
@@ -201,7 +201,7 @@ results {
         nanos: 900000000
       }
       word: "the"
-      confidence: 0.938709319
+      confidence: 0.938709
     }
     words {
       start_time {
@@ -739,7 +739,7 @@ results {
         nanos: 800000000
       }
       word: "But"
-      confidence: 0.906797945
+      confidence: 0.906794369
     }
     words {
       start_time {
@@ -751,7 +751,7 @@ results {
         nanos: 900000000
       }
       word: "I"
-      confidence: 0.973449469
+      confidence: 0.973450184
     }
     words {
       start_time {
@@ -773,7 +773,7 @@ results {
         nanos: 200000000
       }
       word: "to"
-      confidence: 0.984852731
+      confidence: 0.984853327
     }
     words {
       start_time {
@@ -879,7 +879,7 @@ results {
         nanos: 300000000
       }
       word: "I\'ve"
-      confidence: 0.841062605
+      confidence: 0.841063321
     }
     words {
       start_time {
@@ -903,7 +903,7 @@ results {
         nanos: 500000000
       }
       word: "for"
-      confidence: 0.885293245
+      confidence: 0.885293126
     }
     words {
       start_time {
@@ -939,7 +939,7 @@ results {
         nanos: 600000000
       }
       word: "his"
-      confidence: 0.786740243
+      confidence: 0.786740065
     }
     words {
       start_time {
@@ -1119,7 +1119,7 @@ results {
         nanos: 800000000
       }
       word: "these"
-      confidence: 0.928593874
+      confidence: 0.928593516
     }
     words {
       start_time {
@@ -1167,7 +1167,7 @@ results {
         nanos: 600000000
       }
       word: "I\'m"
-      confidence: 0.979618132
+      confidence: 0.979607105
     }
     words {
       start_time {
@@ -1203,7 +1203,7 @@ results {
         nanos: 400000000
       }
       word: "Haven\'t"
-      confidence: 0.651293874
+      confidence: 0.651293755
     }
     words {
       start_time {
@@ -1215,7 +1215,7 @@ results {
         nanos: 500000000
       }
       word: "said"
-      confidence: 0.651293814
+      confidence: 0.651293695
     }
     words {
       start_time {
@@ -1309,7 +1309,7 @@ results {
         nanos: 100000000
       }
       word: "it,"
-      confidence: 0.977386773
+      confidence: 0.977378964
     }
     words {
       start_time {
@@ -1366,7 +1366,7 @@ results {
         seconds: 54
       }
       word: "present,"
-      confidence: 0.966256678
+      confidence: 0.966272831
     }
     words {
       start_time {
@@ -1409,7 +1409,7 @@ results {
         nanos: 600000000
       }
       word: "habit"
-      confidence: 0.972814679
+      confidence: 0.97281611
     }
     words {
       start_time {
@@ -1421,7 +1421,7 @@ results {
         nanos: 800000000
       }
       word: "and"
-      confidence: 0.892192304
+      confidence: 0.892183363
     }
     words {
       start_time {
@@ -1565,7 +1565,7 @@ results {
         nanos: 700000000
       }
       word: "later"
-      confidence: 0.860159039
+      confidence: 0.86016047
     }
     words {
       start_time {
@@ -1577,7 +1577,7 @@ results {
         nanos: 200000000
       }
       word: "will"
-      confidence: 0.860158682
+      confidence: 0.860161185
     }
     words {
       start_time {
